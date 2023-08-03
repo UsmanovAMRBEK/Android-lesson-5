@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Android-Lesson-005</string>
+    <string name="login_page_layer1_text1">NeedFood</string>
+    <string name="login_page_layer2_text1">Sign In</string>
+    <string name="edit_text1">rauliqbal24</string>
+    <string name="forgot_password">Forgot password ?</string>
+    <string name="btn_text">Login</string>
+    <string name="layer3_text1">No account yet ?</string>
+    <string name="layer3_text2">Sign up now</string>
+
+</resources>
